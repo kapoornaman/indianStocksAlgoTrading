@@ -1,4 +1,4 @@
-### Equal-Weight S&P 500 Index Fund
+### Equal-Weight Nifty50 Index Fund
 
 The NIFTY 50 is a benchmark Indian stock market index that represents the weighted average of 50 of the largest Indian companies listed on the National Stock Exchange. Nifty 50 is owned and managed by NSE Indices, which is a wholly owned subsidiary of the NSE Strategic Investment Corporation Limited.
 
